@@ -1,0 +1,8 @@
+.container{
+  height: 100vh; /*vh 整个屏幕高度*/
+}
+#ofoMap{
+  height: 100%;
+  display: block;
+  width: 100%;
+}
